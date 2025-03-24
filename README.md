@@ -108,5 +108,5 @@ Here are the versions of the installed packages:
 To add these packages to your project, you can use the following **NuGet** commands:
 
 ```bash
-dotnet add package Packages --version 8.0.0
+dotnet add package Packages --version 1.0.0
 
